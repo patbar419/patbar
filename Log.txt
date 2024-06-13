@@ -1,0 +1,48 @@
+commit 0cda355df63f6df3320456c801f9f69eb0e73f2e
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:31:49 2024 +0200
+
+    modyfikacja myConflicts.txt w data_fix
+
+commit 60b028f1a0dc7344384bc7e50e832e5094aa10cf
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:30:29 2024 +0200
+
+    modyfikacja myConflicts.txt w masterze
+
+commit 81b3a74b45b8fd3e8fca5001a094b0efb312a002
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:29:13 2024 +0200
+
+    dodanie
+
+commit 6d17f7d5e79fc4d78234cd72e7f17cf257c72d60
+Merge: 2bd3aa1 d6eb244
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:25:04 2024 +0200
+
+    Merge branch 'new_feature'
+
+commit 2bd3aa1d10fc3518f386d2521e0bb6de4114c6e7
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:24:47 2024 +0200
+
+    modyifikacja Readme.txt i Config.txt
+
+commit d6eb244fea28b80820b8996dd571bc8d5cfebefb
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:21:22 2024 +0200
+
+    modyfikacja
+
+commit ed2b7123c7af57994f01c38adcd1761d1038c712
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:20:44 2024 +0200
+
+    dodano
+
+commit b414d3fd5e8a1d7433ecdca6badcc808304d5d56
+Author: patbar419 <patbar419@proton.me>
+Date:   Thu Jun 13 14:19:25 2024 +0200
+
+    Dodanie readme.txt z imieniem i nazwiskiem
